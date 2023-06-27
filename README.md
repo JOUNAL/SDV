@@ -29,7 +29,18 @@
 # DIAGRAMAS
 
 <p>En este apartado de diagramas encontraremos el rpoceso grafico por el cual llevaremos a cabo nuestro objetivos propuesto</p>
+
 <h3>DIAGRAMA DE FLUJO</h3>
 <p>En este apartado encontraremos el proceso por el cual se lleva a cabo una accion, los procesos a los cuales llevara cabo esa accion y los resultados finales de esa accion</p>
-![image](https://github.com/JOUNAL/SDV/assets/136606554/874d6cea-2944-442f-9cdf-c7139dc15ca6)
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/874d6cea-2944-442f-9cdf-c7139dc15ca6) 
+
+<h3>DIAGRAMA DE CAJA NEGRA SIN TECNOLOGIA DEFINIDA</h3>
+<p>En este apartado encontraremos encontraremos los pprocesos de entrada ysalida con tecnologia ya aplicadpero sin especificar claramente cual es la que vamos a utilizar ya que se tiene que evaluar la caracteristica de cada componente para poder llevar a cabo los objetivos propuestos</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/b9d4f565-b937-4c56-abac-af00bf8cc043)
+
+<h4>LISTA DE MATERIALES</h4>
+
+<p>En este apartado encontraremos los materiales que usaremos parar completar el diagrama de caja negra y como se conectaran los diferentes componentes</p>
 
