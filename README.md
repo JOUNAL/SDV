@@ -31,4 +31,5 @@
 <p>En este apartado de diagramas encontraremos el rpoceso grafico por el cual llevaremos a cabo nuestro objetivos propuesto</p>
 <h3>DIAGRAMA DE FLUJO</h3>
 <p>En este apartado encontraremos el proceso por el cual se lleva a cabo una accion, los procesos a los cuales llevara cabo esa accion y los resultados finales de esa accion</p>
-![image](https://github.com/JOUNAL/SDV/assets/136606554/ea0ee06f-ba80-4523-aad3-73fb567f677b)
+![image](https://github.com/JOUNAL/SDV/assets/136606554/874d6cea-2944-442f-9cdf-c7139dc15ca6)
+
