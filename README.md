@@ -7,3 +7,7 @@
 <p>Santiago Quevedo Lopez</p>
 <p>Juan Nicolas Torres Escobar</p>
 <p>Juan Carlos Oliveros Garzón</p>
+
+# DESCRIPCION
+
+<p>SDV es un dispositivo con el objetivo de defender objetos de valor al detectar a alguien dentro de un rango disparando en este caso balas Nerf</p>
