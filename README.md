@@ -4,6 +4,6 @@
  
 
 # INTEGRANTES
-Santiago Quevedo Lopez
-Juan Nicolas Torres Escobar
-Juan Carlos Oliveros Garzón
+<p>Santiago Quevedo Lopez</p>
+<p>Juan Nicolas Torres Escobar</p>
+<p>Juan Carlos Oliveros Garzón</p>
