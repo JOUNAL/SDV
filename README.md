@@ -10,4 +10,4 @@
 
 # DESCRIPCION
 
-<p>SDV es un dispositivo con el objetivo de defender objetos de valor al detectar a alguien dentro de un rango disparando en este caso balas Nerf</p>
+<p>SDV es un dispositivo con el objetivo de defender objetos de valor que contenga dentro al detectar a alguien dentro de un rango disparando en este caso balas Nerf</p>
