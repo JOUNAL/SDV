@@ -1,3 +1,4 @@
+
 # SDV
 
 <b> Imagen de la caja </b> 
@@ -67,3 +68,31 @@
 
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/4530e9ac-82c7-4213-983d-6a4c6d52a958)
 
+# IMPLEMENTACION
+
+<p>En esta seccion veremos como implementamos los componenetes para que cumplan la funcion designada</p>
+
+<h3>ESQUEMATICO DEL CIRCUITO</h3>
+
+<p>Este es el esquema circuital del  proyecto</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/bbc27289-119c-4422-b20b-e6f50a4d8289)
+
+<h3>RUTEO PCB</h3>
+<p>En esta parte podremos apreciar como se ruteo la PCB y como se dispusieron los diferentes elementos</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/4b200ebf-eabd-4a9d-8f48-2fbcdb5d15aa)
+
+<p>Podremos apreciar ue se decidio rutear por la parte de atras las conexiones principales y por delante se dispuso lo que seria el GND</p>
+
+<h3>PCB 3D</h3>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/b99c30ea-63fb-4a57-ab40-c2e111876a7e)
+
+# PRUEBAS
+
+<p>1)En este caso de puso a prueba el SDV en un entorno controlado para comprobar su funcionalidad</p>
+https://youtu.be/dbPjX9YF6rE
+
+<p>2)En este caso de puso a prueba el SDV en una simlacion de lo que se encontraria cumpliendo a cabalidad su funcion, aumentado con este mismo fin la distancia que detectara el objetivo</p>
+https://youtu.be/GnnjFE5JcX4
