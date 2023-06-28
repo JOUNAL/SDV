@@ -15,7 +15,7 @@
 <p>SDV es un dispositivo con el objetivo de defender objetos de valor que contenga dentro al detectar a alguien dentro de un rango disparando en este caso balas Nerf</p>
 
 <h3>PROBLEMATICA</h3>
-<p>SDV nace como la respuesta a la problematica de defender objetos de valor como por ejemplo en cajas de seguridad donde la unica barrera que progetee a los obetos de valor es una barrera que muchas veces puede ser trasnpasada con facilidad</p>
+<p>SDV nace como la respuesta a la problematica de defender objetos de valor como por ejemplo en cajas de seguridad donde la unica barrera que protege a los obetos de valor es una barrera que muchas veces puede ser trasnpasada con facilidad</p>
 
 <h3>ALCANCES</h3>
 <p>Se esperea obtener una caja autodefendible cuando detecte aglo dentro de su rango de alcance</p>
@@ -30,7 +30,7 @@
 
 # DIAGRAMAS
 
-<p>En este apartado de diagramas encontraremos el rpoceso grafico por el cual llevaremos a cabo nuestro objetivos propuesto</p>
+<p>En este apartado de diagramas encontraremos el proceso grafico por el cual llevaremos a cabo nuestro objetivos propuesto</p>
 
 <h3>DIAGRAMA DE FLUJO</h3>
 <p>En este apartado encontraremos el proceso por el cual se lleva a cabo una accion, los procesos a los cuales llevara cabo esa accion y los resultados finales de esa accion</p>
@@ -38,7 +38,7 @@
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/874d6cea-2944-442f-9cdf-c7139dc15ca6) 
 
 <h3>DIAGRAMA DE CAJA NEGRA SIN TECNOLOGIA DEFINIDA</h3>
-<p>En este apartado encontraremos encontraremos los pprocesos de entrada ysalida con tecnologia ya aplicadpero sin especificar claramente cual es la que vamos a utilizar ya que se tiene que evaluar la caracteristica de cada componente para poder llevar a cabo los objetivos propuestos</p>
+<p>En este apartado encontraremos encontraremos los procesos de entrada y salida con tecnologia ya aplicadpero sin especificar claramente cual es la que vamos a utilizar ya que se tiene que evaluar la caracteristica de cada componente para poder llevar a cabo los objetivos propuestos</p>
 
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/b9d4f565-b937-4c56-abac-af00bf8cc043)
 
@@ -84,7 +84,7 @@
 
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/4b200ebf-eabd-4a9d-8f48-2fbcdb5d15aa)
 
-<p>Podremos apreciar ue se decidio rutear por la parte de atras las conexiones principales y por delante se dispuso lo que seria el GND</p>
+<p>Podremos apreciar que se decidio rutear por la parte de atras las conexiones principales y por delante se dispuso lo que seria el GND</p>
 
 <h3>PCB 3D</h3>
 
@@ -96,11 +96,11 @@
 <p>1)En este caso de puso a prueba el SDV en un entorno controlado para comprobar su funcionalidad</p>
 <p>https://youtu.be/dbPjX9YF6rE</p>
 
-<p>2)En este caso de puso a prueba el SDV en una simlacion de lo que se encontraria cumpliendo a cabalidad su funcion, aumentado con este mismo fin la distancia que detectara el objetivo</p>
+<p>2)En este caso se puso a prueba el SDV en una simulacion de lo que se encontraria cumpliendo a cabalidad su funcion, aumentado con este mismo fin la distancia que detectara el objetivo</p>
 <p>https://youtu.be/GnnjFE5JcX4</p>
 
 # CORTE
-<p>En este ultimo apartado veremos el disño que se utilizo para darle forma al SDV</p>
+<p>En este ultimo apartado veremos el diseño que se utilizo para darle forma al SDV</p>
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/1a04f70e-0e39-4046-b12e-4bed4a1a935a)
 
 # CONCLUSONES
