@@ -92,7 +92,15 @@
 # PRUEBAS
 
 <p>1)En este caso de puso a prueba el SDV en un entorno controlado para comprobar su funcionalidad</p>
-https://youtu.be/dbPjX9YF6rE
+<p>https://youtu.be/dbPjX9YF6rE</p>
 
 <p>2)En este caso de puso a prueba el SDV en una simlacion de lo que se encontraria cumpliendo a cabalidad su funcion, aumentado con este mismo fin la distancia que detectara el objetivo</p>
-https://youtu.be/GnnjFE5JcX4
+<p>https://youtu.be/GnnjFE5JcX4</p>
+
+# CORTE
+<p>En este ultimo apartado veremos el disño que se utilizo para darle forma al SDV</p>
+![image](https://github.com/JOUNAL/SDV/assets/136606554/1a04f70e-0e39-4046-b12e-4bed4a1a935a)
+
+# CONCLUSONES
+<p>Podemos dar por acabado este proyecto diciendo como resultado que llevar a cabo un proyecto es una trayectoria larga y algo dificil pero fructifera y que da un resultado satisfactorio cuando se observa el producto final</p>
+
