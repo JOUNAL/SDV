@@ -1,7 +1,8 @@
 
 # SDV
 
-<b> Imagen de la caja </b> 
+![image](https://github.com/JOUNAL/SDV/assets/136606554/8c179c0c-4b2d-4853-bded-e1cac7dca3d7)
+
  
 
 # INTEGRANTES
@@ -88,6 +89,7 @@
 <h3>PCB 3D</h3>
 
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/b99c30ea-63fb-4a57-ab40-c2e111876a7e)
+![image](https://github.com/JOUNAL/SDV/assets/136606554/97dc2817-5a9f-4a06-b431-8bc531a178d3)
 
 # PRUEBAS
 
