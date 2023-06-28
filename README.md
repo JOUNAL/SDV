@@ -44,3 +44,26 @@
 
 <p>En este apartado encontraremos los materiales que usaremos parar completar el diagrama de caja negra y como se conectaran los diferentes componentes</p>
 
+<p>Motores DC x2</p>
+<p>Servomotor x1</p>
+<p>Sensor ultrasonico x1</p>
+<p>ESP 32 CAM x1</p>
+<p>Leds x6</p>
+<p>Buzzer x1</p>
+
+<h3>DIAGRAMA DE CAJA NEGRA CON TECNOLOGIA DEFINIDA</h3>
+<p>En este apartado encontraremos los procesos integrados en el diagrama anterior con los materiales seleccionados y como estos se llevarian a cabo</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/e45863e3-b1d2-4eab-8515-a7d002a74404)
+
+# DISEÑOS
+
+
+<p>1)En este primer diseño podremos apreciar como cada componente consume energia y asi poder calcular cuanta potencia requiere en total el circuito para poder funcionar</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/009ad30d-5c0c-4a15-a059-9555bed91aea)
+
+<p>2)En este segundo diseño encontraremos la cantidad de pines que requeria cada componente para poder funcionar, esto con la finalidad de evaluar si teniamos la placa de programacion que necesitabamos</p>
+
+![image](https://github.com/JOUNAL/SDV/assets/136606554/4530e9ac-82c7-4213-983d-6a4c6d52a958)
+
