@@ -1,10 +1,10 @@
 
 # SDV
-<center>
+<p text-align:center>
  
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/0f90e93b-03e5-4db3-8174-0e2800f579f8)
 
-</center>
+</p>
 
 ![image](https://github.com/JOUNAL/SDV/assets/136606554/8c179c0c-4b2d-4853-bded-e1cac7dca3d7)
 
